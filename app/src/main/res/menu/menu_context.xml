@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/id_param_menu_ctat"
+    android:title="@string/param_menu_cta1"
+    ></item>
+    <item
+        android:id="@+id/id_param_menu_ctam"
+        android:title="@string/param_menu_cta2"
+        ></item>
+
+</menu>
