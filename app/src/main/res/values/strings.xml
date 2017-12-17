@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Registro de Saldos Personales</string>
+
+    <string-array name="destino_array">
+        <item>EFHNL</item>
+        <item>BPHNL</item>
+        <item>BPUSD</item>
+        <item>CE</item>
+        <item>CB</item>
+        <item>DM</item>
+        <item>FHNL</item>
+        <item>FUSD</item>
+    </string-array>
+    <string name="title_activity_ingresar_registros">IngresarRegistros</string>
+    <string name="spinner_title">Seleccione a que Cuenta</string>
+    <string name="title_activity_consultar_registros">ConsultarRegistros</string>
+    <string name="title_activity_parametros">Parametros</string>
+    <string name="title_activity_param">Parametros</string>
+    <string name="title_activity_configurarcuentas">Configurar Cuentas</string>
+    <string name="param_menu_cta1">Tipos de Cuentas</string>
+    <string name="param_menu_cta2">Tipos de Cuentas</string>
+    <string name="boton_proceder_configurarcuentasc">Proceder a Insertar</string>
+    <string name="boton_proceder_configurarcuentase">Proceder a Editar</string>
+    <string name="boton_proceder_configurarcuentasr">Proceder a Eliminar</string>
+</resources>
